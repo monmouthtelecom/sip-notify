@@ -7,7 +7,7 @@ $LOAD_PATH.unshift( lib_dir )
 
 spec = Gem::Specification.new { |s|
 	s.name         = 'sip-notify'
-	s.version      = '0.0.1'
+	s.version      = '0.0.2'
 	s.summary      = "Sends SIP NOTIFY events."
 	s.description  = "Sends SIP NOTIFY events (\"check-sync\" etc.)."
 	s.author       = "Philipp Kempgen"
